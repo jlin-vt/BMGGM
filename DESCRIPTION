@@ -1,0 +1,15 @@
+Package: BMGGM
+Title: Bayesian Multiple Gaussian Graphical Models
+Version: 0.0.0.9000
+Authors@R: person("Jiali", "Lin", email = "jiali@vt.edu", role = c("aut", "cre"))
+Description: Estimation for multiple Gaussian graphical models by Bayesian methods.
+Depends: R (>= 3.3.1)
+License: GPL (>= 3)
+Encoding: UTF-8
+Imports: mvtnorm, Matrix, lattice, pscl, MCMCpack, MASS, ROCR, fifer, igraph, huge, edgebundleR, data.table, glasso, JGL
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
