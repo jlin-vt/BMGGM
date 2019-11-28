@@ -14,9 +14,8 @@ Imports:
     MCMCpack,
     MASS,
     ROCR,
-    fifer,
-    igraph,
-    huge
+    igraph, 
+    huge,
 Suggests:
     testthat,
     knitr,
