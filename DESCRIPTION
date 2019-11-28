@@ -6,8 +6,18 @@ Description: Estimation for multiple Gaussian graphical models by Bayesian metho
 Depends: R (>= 3.3.1)
 License: GPL (>= 3)
 Encoding: UTF-8
-Imports: mvtnorm, Matrix, lattice, pscl, MCMCpack, MASS, ROCR, fifer, igraph, huge, edgebundleR, data.table, glasso, JGL
-Suggests: 
+Imports:
+    mvtnorm,
+    Matrix,
+    lattice,
+    pscl,
+    MCMCpack,
+    MASS,
+    ROCR,
+    fifer,
+    igraph,
+    huge
+Suggests:
     testthat,
     knitr,
     rmarkdown
