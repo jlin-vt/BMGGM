@@ -1,4 +1,6 @@
 # BMGGM
+[![Build Status](https://travis-ci.org/jlin-vt/BMGGM.svg?branch=master)](https://travis-ci.org/jlin-vt/BMGGM)
+
 An R package for learning multiple Gaussian graphical models by Bayesian
 
 #### Installation
