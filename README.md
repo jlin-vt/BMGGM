@@ -6,14 +6,14 @@ An R package for learning multiple Gaussian graphical models by Bayesian
 ```r
 install.packages("devtools")
 library(devtools)
-devtools::install_github("jllin90/BMGGM")
+devtools::install_github("jlin-vt/BMGGM")
 library(BMGGM)
 ```
 
 #### Getting Started
 
-[Examples](https://github.com/jllin90/BMGGM/blob/master/vignettes/examples.Rmd)
+[Examples](https://github.com/jlin-vt/BMGGM/blob/master/vignettes/examples.Rmd)
 
 #### Manuscript
 
-[Bayesian Multiple Gaussian Graphical Models for Multilevel Variables from Unknown Classes](https://github.com/jllin90/BMGGM)
+[Bayesian Multiple Gaussian Graphical Models for Multilevel Variables from Unknown Classes](https://github.com/jlin-vt/BMGGM)
