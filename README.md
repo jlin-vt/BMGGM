@@ -64,7 +64,7 @@ adj_save <- res$adj_save
 The [vignette](https://github.com/jlin-vt/BMGGM/blob/master/vignettes/examples.Rmd) demonstrates example usage of all main functions. 
 
 ## Status
-The preprint describing the corncob methodology is available [here](https://github.com/jlin-vt/BMGGM/blob/master/vignettes/examples.Rmd). The manuscript has been submitted to _Computational Statistics and Data Analysis_.
+The preprint describing the corncob methodology is available [here](https://github.com/jlin-vt/BMGGM/blob/master/vignettes/examples.Rmd). The manuscript has been accepted by _Computational Statistics_.
 
 ## Bug Reports / Change Requests
 If you encounter a bug or would like make a change request, please file it as an issue [here](https://github.com/jlin-vt/BMGGM/issues).
