@@ -54,8 +54,6 @@ InitVal$adj <- ifelse(InitVal$Beta, 1, 0)
 
 Finally, apply MCMC sampler to execute BMGGM:
 ```r 
-# tic
-ptm <- proc.time()
 # Run
 res <- Bmggm(dat, options, PriorPar, InitVal)
 adj_save <- res$adj_save
