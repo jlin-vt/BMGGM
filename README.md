@@ -26,8 +26,8 @@ dat <- GenerateData(p, K, n)
 The second step is to set the options for MCMC.
 ```r 
 options <- list()
-options$burnin <- 100
-options$nmc <- 100
+options$burnin <- 10000
+options$nmc <- 10000
 ```
 
 You also need to intialize the priors.
